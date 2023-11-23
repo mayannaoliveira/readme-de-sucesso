@@ -305,24 +305,26 @@ Blog posts:
 
 ---
 ### Stack Overflow 
-[stackoverflow-card](https://github.com/nschloe/stackoverflow-card/blob/main/README.md)
-Mostre sua colaboração na plataforma utilizando um dos cards do [Stack Overflow](https://github.com/omidnikrah/github-readme-stackoverflow) abaixo alguns exemplos:
+[Stackoverflow card](https://github.com/nschloe/stackoverflow-card/blob/main/README.md)
+Mostre sua colaboração na plataforma utilizando um dos cards do [Stack Overflow Stats](https://github.com/omidnikrah/github-readme-stackoverflow) abaixo alguns exemplos:
 
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312)](https://stackoverflow.com/users/16884312/mayanna)
+[![A-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312)](https://stackoverflow.com/users/16884312/mayanna)
 
 ```md
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=<ID-do-usuário>)](URL-do-perfil)
 ```
 
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312)](https://stackoverflow.com/users/16884312/mayanna&layout=compact)
+![C-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&layout=compact&theme=dark)
+
+[![DStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&layout=compact)](https://stackoverflow.com/users/16884312/mayanna)
 
 ```md
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312)](https://stackoverflow.com/users/16884312/mayanna&layout=compact)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&layout=compact)](https://stackoverflow.com/users/16884312/mayanna)
 ```
 
-[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna)
+[![E-StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna)
 
-[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna&theme=solarizeddark&showAnimations=true&showLogo=true)
+[![F-StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312&theme=solarizeddark&showAnimations=true&showLogo=true)](https://stackoverflow.com/users/16884312/mayanna)
 
 ```md
 [![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/<ID-USUÁRIO>)](https://stackoverflow.com/users/<ID-USUÁRIO>/<USUÁRIO>)
