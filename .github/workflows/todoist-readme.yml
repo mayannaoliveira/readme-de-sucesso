@@ -15,4 +15,4 @@ jobs:
       - uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.025d143e40f5696ea542eab57a094f9c9ff7e070 }}
-          PREMIUM: true
+          PREMIUM: false
