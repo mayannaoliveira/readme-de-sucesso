@@ -172,7 +172,8 @@ Exibe as atividades que foram executadas recentemente no GitHub. Os passos abaix
 
 Estrutura do repositório:
 Criar uma pasta `.github` e dentro dela outra `workflows`, onde ficarar os arquivos YML.
-```
+
+```md
 usuário/usuário
 │   README.md
 │
@@ -182,6 +183,7 @@ usuário/usuário
             update-badges.yml
             update-readme.yml
 ```
+
 No arquivo `README.md` inserir os comentários:
 
 ```html
@@ -310,6 +312,12 @@ Mostre sua colaboração na plataforma utilizando um dos cards do [Stack Overflo
 
 ```md
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=<ID-do-usuário>)](URL-do-perfil)
+```
+
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/16884312/mayanna)
+
+```md
+[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/<ID-USUÁRIO>/<USUÁRIO>)
 ```
 ### Todoist Stats
 
