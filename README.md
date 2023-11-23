@@ -324,12 +324,6 @@ Mostre sua colaboração na plataforma utilizando um dos cards do [Stack Overflo
 
 [![E-StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna)
 
-[![F-StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312&theme=solarizeddark&showAnimations=true&showLogo=true)](https://stackoverflow.com/users/16884312/mayanna)
-
-```md
-[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/<ID-USUÁRIO>)](https://stackoverflow.com/users/<ID-USUÁRIO>/<USUÁRIO>)
-```
-
 Na opção acima alguns itens podem ser adicionados ao código seguindo o exemplo de `theme`.
 - showLogo: true
 - theme: [stackoverflow-dark, stackoverflow-light, dracula, ...]
