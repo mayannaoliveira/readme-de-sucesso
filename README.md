@@ -314,11 +314,27 @@ Mostre sua colaboração na plataforma utilizando um dos cards do [Stack Overflo
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=<ID-do-usuário>)](URL-do-perfil)
 ```
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/16884312/mayanna)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312)](https://stackoverflow.com/users/16884312/mayanna&layout=compact)
 
 ```md
-[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/<ID-USUÁRIO>/<USUÁRIO>)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312)](https://stackoverflow.com/users/16884312/mayanna&layout=compact)
 ```
+
+[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna)
+
+[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna&theme=solarizeddark&showAnimations=true&showLogo=true)
+
+```md
+[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/<ID-USUÁRIO>)](https://stackoverflow.com/users/<ID-USUÁRIO>/<USUÁRIO>)
+```
+
+Na opção acima alguns itens podem ser adicionados ao código seguindo o exemplo de `theme`.
+- showLogo: true
+- theme: [stackoverflow-dark, stackoverflow-light, dracula, ...]
+- showBorder: true
+- showIcons: true
+- showAnimations: true
+
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
