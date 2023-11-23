@@ -1,4 +1,6 @@
 ## Readme de Sucesso
+Estrutura do repositório:
+```md
 │   README.md
 │
 └───.github
