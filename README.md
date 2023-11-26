@@ -331,7 +331,41 @@ Na opção acima alguns itens podem ser adicionados ao código seguindo o exempl
 - showIcons: true
 - showAnimations: true
 
-### Todoist Stats
+### Wakatime 
+
+Seguir exemplo do [WakaTime coding metrics on your profile readme](https://github.com/athul/waka-readme).
+
+```md
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
+`waka-readme.yml`
+
+```yml
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- ### Todoist Stats -->
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
