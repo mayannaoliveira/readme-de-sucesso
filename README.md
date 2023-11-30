@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://bio.link/mayanna">
-    <img
-      alt="Bio link"
-      src="./img/cover.png"
-    />
-  </a>
+    <img alt="Bio link" src="./img/cover.png"/></a>
 </p>
 
 <p align="center">
@@ -124,11 +120,43 @@ Abaixo exemplo do icone do Github:
 
 Utilizar o status do Github e de demais redes sociais via badges, o mesmo pode ser feito com o Youtube seguindo o [Github README YouTube Stats](https://github.com/DenverCoder1/github-readme-youtube-stats)
 
-[![GitHub forks](https://img.shields.io/github/forks/mayannaoliveira/awesome-badges.svg?style=social&label=Fork)](https://github.com/mayannaoliveira/awesome-badges)
-[![GitHub stars](https://img.shields.io/github/stars/mayannaoliveira/awesome-badges.svg?style=social&label=Star)](https://github.com/mayannaoliveira/awesome-badges)
-[![GitHub watchers](https://img.shields.io/github/watchers/mayannaoliveira/awesome-badges.svg?style=social&label=Watch)](https://github.com/mayannaoliveira/awesome-badges)
-[![GitHub followers](https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow)](https://github.com/mayannaoliveira/awesome-badges)
-[![Twitter Follow](https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social)](https://twitter.com/oliveiramayanna)
+<p align="left">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
+</p>
+
+Podem ser usadas em HTML ou Markdown:
+```html
+<p align="left">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
+</p>
+```
+
+Outra opção de badges:
+<p align="left">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/stargazers"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira" alt="Stars Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/network/members"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira" alt="Forks Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/pulls"><img src="https://img.shields.io/github/issues-pr/mayannaoliveira/mayannaoliveira" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/issues"><img src="https://img.shields.io/github/issues/mayannaoliveira/mayannaoliveira" alt="Issues Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mayannaoliveira/mayannaoliveira?color=2b9348"></a>
+</p>
+
+```html
+<p align="left">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/stargazers"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira" alt="Stars Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/network/members"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira" alt="Forks Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/pulls"><img src="https://img.shields.io/github/issues-pr/mayannaoliveira/mayannaoliveira" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/issues"><img src="https://img.shields.io/github/issues/mayannaoliveira/mayannaoliveira" alt="Issues Badge"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mayannaoliveira/mayannaoliveira?color=2b9348"></a>
+</p>
+```
 
 ---
 
