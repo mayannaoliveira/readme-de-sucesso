@@ -166,21 +166,17 @@ Outra opção de badges:
 
 Para utilizar o status do GitHub é apenas utilizar o código abaixo e inserir o usuário e o tema, mais informações [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
+![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=radical)
+
 ```md
 ![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=<usuário>&show_icons=true&theme=<tema>)
 ```
 
-![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dark)
-
-![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=radical)
-
-![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dracula)
-
-![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=merko)
-
-![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=gruvbox)
-
-![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=transparent)
+<!-- ![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dark)  -->
+<!-- ![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dracula) -->
+<!-- ![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=merko) -->
+<!--  ![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=gruvbox)  -->
+<!-- ![Mayanna GitHub stats](https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=transparent)  -->
 
 Os temas (theme) podem ser: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast e dracula.
 
@@ -193,7 +189,8 @@ Esse tipo de card permite alterar os seguintes itens:
 
 - O tipo do card `cardType=level`.
 - O tema `theme=ocean-dark`.
-  [![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=level&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+[![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=level&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 Versão Markdown:
 
