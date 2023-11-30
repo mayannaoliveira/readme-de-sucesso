@@ -20,7 +20,7 @@ Substitua as tags abaixo :
 
 - Utilizar o nome do usuário: `<usuário>`.
 - Alterar o tema `<tema>`.
-- Pode utilizar as cores no padrão hex como left_color=2f80ed e right_color=2f80ed, para criar uma paleta de cores acesse o [Coolors](www.coolors.com).
+- Pode utilizar as cores no padrão hex como `left_color=2f80ed` e `right_color=2f80ed`, para criar uma paleta de cores acesse o [Coolors](www.coolors.com).
 
 ### Como funciona o Markdown com as Badges?
 
