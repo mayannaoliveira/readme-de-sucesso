@@ -186,7 +186,7 @@ Os temas (theme) podem ser: dark, radical, merko, gruvbox, tokyonight, oned
 
 ## Awesome GitHub Stats
 
-Card para exibir os dados do Github, é possível gerar via site [Awesome GitHub Stat](https://awesome-github-stats.azurewebsites.net/) ou usar a versão HTML ou Markdown.
+Card para exibir os dados do Github, é possível gerar via site [Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/) ou usar a versão HTML ou Markdown.
 Esse tipo de card permite alterar os seguintes itens:
 
 - O tipo do card `cardType=level`.
