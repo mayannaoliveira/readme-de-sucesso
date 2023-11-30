@@ -403,8 +403,6 @@ Mostre sua colaboração na plataforma utilizando um dos cards do [Stack Overflo
 
 ![C-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&layout=compact&theme=dark)
 
-[![DStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&layout=compact)](https://stackoverflow.com/users/16884312/mayanna)
-
 ```md
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&layout=compact)](https://stackoverflow.com/users/16884312/mayanna)
 ```
