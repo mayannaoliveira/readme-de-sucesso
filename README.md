@@ -145,7 +145,8 @@ Outra opção de badges:
 <a href="https://github.com/mayannaoliveira/mayannaoliveira/network/members"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira" alt="Forks Badge"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira/pulls"><img src="https://img.shields.io/github/issues-pr/mayannaoliveira/mayannaoliveira" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira/issues"><img src="https://img.shields.io/github/issues/mayannaoliveira/mayannaoliveira" alt="Issues Badge"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mayannaoliveira/mayannaoliveira?color=2b9348"></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mayannaoliveira/mayannaoliveira?color=2b9348">
+<a href="https://wakatime.com/@cd4a8b69-f939-4fa3-a908-c3b12093052f"><img src="https://wakatime.com/badge/user/cd4a8b69-f939-4fa3-a908-c3b12093052f.svg" alt="Total time coded since Aug 1 2021" /></a></a>
 </p>
 
 ```html
@@ -155,6 +156,7 @@ Outra opção de badges:
 <a href="https://github.com/mayannaoliveira/mayannaoliveira/pulls"><img src="https://img.shields.io/github/issues-pr/mayannaoliveira/mayannaoliveira" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira/issues"><img src="https://img.shields.io/github/issues/mayannaoliveira/mayannaoliveira" alt="Issues Badge"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mayannaoliveira/mayannaoliveira?color=2b9348"></a>
+<a href="https://wakatime.com/@cd4a8b69-f939-4fa3-a908-c3b12093052f"><img src="https://wakatime.com/badge/user/cd4a8b69-f939-4fa3-a908-c3b12093052f.svg" alt="Total time coded since Aug 1 2021" /></a>
 </p>
 ```
 
