@@ -414,10 +414,23 @@ Para alterar a quantidades de artigos a serem exibidos alterem a quantidade em `
 
 ## GitHub WidgetBox
 
+Uma outra forma de exibir suas habilidades vida [GitHub WidgetBox](https://github.com/Jurredr/github-widgetbox). Disponível no tema: darkmode, viridescent, carbon, nautilus ou serika.
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,ruby,java,jquery)](https://github.com/Jurredr/github-widgetbox)
 
 ```md
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,ruby,java,jquery)](https://github.com/Jurredr/github-widgetbox)
+```
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits)](https://github.com/mayannaoliveira)
+
+```md
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits)](https://github.com/mayannaoliveira)
+```
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/mayannaoliveira/github-widgetbox) 
+
+```md
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/mayannaoliveira/github-widgetbox) 
 ```
 
 ---
