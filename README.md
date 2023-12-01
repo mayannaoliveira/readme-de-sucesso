@@ -605,7 +605,7 @@ As suas conquistas em formato de badges, para saber mais sobre o [Holopin](https
 [![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
 ```
 
-## Codewars
+## Codewars Badges
 [Codewars](https://www.codewars.com/) é um site onde é possível aprender e compartilhar o aprendizado de programação. As badges estão disponíveis em 3 tamanhos diferentes:
 
 Tamanho grande:
@@ -616,13 +616,13 @@ Tamanho grande:
 Tamanho médio:
 ![CW-Medio](https://www.codewars.com/users/mayannaoliveira/badges/small)
 ```md
-![CW-Grande](https://www.codewars.com/users/mayannaoliveira/badges/large)
+![CW-Medio](https://www.codewars.com/users/mayannaoliveira/badges/small)
 ```
 
 Tamanho pequeno:
 ![CW-Pequeno](https://www.codewars.com/users/mayannaoliveira/badges/micro)
 ```md
-![CW-Grande](https://www.codewars.com/users/mayannaoliveira/badges/large)
+![CW-Pequeno](https://www.codewars.com/users/mayannaoliveira/badges/micro)
 ```
 
 Para acessar a sua badge do Codewar basta ir no link `https://www.codewars.com/users/<USUÁRIO>/badges` e inserir em Markdown ou HTML como mostra os exemplos na página.
