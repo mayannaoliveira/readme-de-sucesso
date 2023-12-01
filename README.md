@@ -624,6 +624,11 @@ Tamanho pequeno:
 ```md
 ![CW-Pequeno](https://www.codewars.com/users/mayannaoliveira/badges/micro)
 ```
+Utilizar na versão HTML:
+<img src= "https://www.codewars.com/users/mayannaoliveira/badges/micro" width= "200"/>
+```html
+<img src= "https://www.codewars.com/users/mayannaoliveira/badges/micro" width= "200"/>
+```
 
 Para acessar a sua badge do Codewar basta ir no link `https://www.codewars.com/users/<USUÁRIO>/badges` e inserir em Markdown ou HTML como mostra os exemplos na página.
 
