@@ -605,12 +605,31 @@ As suas conquistas em formato de badges, para saber mais sobre o [Holopin](https
 [![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
 ```
 
+## Codewars
+[Codewars](https://www.codewars.com/) é um site onde é possível aprender e compartilhar o aprendizado de programação. As badges estão disponíveis em 3 tamanhos diferentes:
 
+Tamanho grande:
+![CW-Grande](https://www.codewars.com/users/mayannaoliveira/badges/large)
+```md
+![CW-Grande](https://www.codewars.com/users/mayannaoliveira/badges/large)
+```
+Tamanho médio:
+![CW-Medio](https://www.codewars.com/users/mayannaoliveira/badges/small)
+```md
+![CW-Grande](https://www.codewars.com/users/mayannaoliveira/badges/large)
+```
 
+Tamanho pequeno:
+![CW-Pequeno](https://www.codewars.com/users/mayannaoliveira/badges/micro)
+```md
+![CW-Grande](https://www.codewars.com/users/mayannaoliveira/badges/large)
+```
+
+Para acessar a sua badge do Codewar basta ir no link `https://www.codewars.com/users/<USUÁRIO>/badges` e inserir em Markdown ou HTML como mostra os exemplos na página.
 
 ---
 #### Fontes de pesquisa:
 
 [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile),
 [Awesome GitHub Profile README Template Collection](https://github.com/ryana0805/awsome-github-profile-readme) e 
-[Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
