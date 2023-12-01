@@ -596,6 +596,18 @@ Inserir no README.md as linhas:
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
+## Holopin Badges
+As suas conquistas em formato de badges, para saber mais sobre o [Holopin](https://www.holopin.io/) acesse o site oficial e leia a documentação onde tem todos os passos de como conseguir as badges.
+
+[![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
+
+```md
+[![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
+```
+
+
+
+
 ---
 #### Fontes de pesquisa:
 
