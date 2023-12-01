@@ -630,6 +630,12 @@ Utilizar na versão HTML:
 <img src= "https://www.codewars.com/users/mayannaoliveira/badges/micro" width= "200"/>
 ```
 
+![Codewars-languages](https://github.r2v.ch/codewars?user=mayannaoliveira&top_languages=true)
+
+```md
+![Codewars](https://github.r2v.ch/codewars?user=mayannaoliveira&top_languages=true)
+```
+
 Para acessar a sua badge do Codewar basta ir no link `https://www.codewars.com/users/<USUÁRIO>/badges` e inserir em Markdown ou HTML como mostra os exemplos na página.
 
 ---
