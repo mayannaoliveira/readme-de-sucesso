@@ -510,6 +510,13 @@ A chave da API do WakaTime pode ser encontrada no link [Wakatime API Key](https:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+Outra opção é essa, muito simples:
+```md
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mayannaoliveira&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+```
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mayannaoliveira&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
 ## Todoist Stats
 
 Inserir o Todoist no seu repositório, seguindo o exemplo do [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme), elaborado pelo usuário [abhisheknaiidu](https://github.com/abhisheknaiidu).
