@@ -646,6 +646,16 @@ Utilizar na versão HTML:
 Para acessar a sua badge do Codewar basta ir no link `https://www.codewars.com/users/<USUÁRIO>/badges` e inserir em Markdown ou HTML como mostra os exemplos na página.
 
 ---
+## Star Dev
+O ![Star Dev](https://stardev.io/) adiciona algumas estatísticas do Github como mostra abaixo:
+
+```md
+<a href="https://stardev.io/developers/mayannaoliveira"><img alt="Check out mayannaoliveira's profile on stardev.io" src="https://stardev.io/developers/mayannaoliveira/badge/languages/global.svg" /></a>
+```
+
+<a href="https://stardev.io/developers/mayannaoliveira"><img alt="Check out mayannaoliveira's profile on stardev.io" src="https://stardev.io/developers/mayannaoliveira/badge/languages/global.svg" /></a>
+
+---
 
 ## OSS Insight
 
