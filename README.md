@@ -685,6 +685,59 @@ O [Star Dev](https://stardev.io/) adiciona algumas estatísticas do Github como 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ```
 
+## Dev Card
+
+O DEV Card só pode ser utilizado caso você tenha o [Daily Dev](https://app.daily.dev/) e nas propriedades buscar pelo código:
+
+```
+<a href="https://app.daily.dev/mayannaoliveira"><img src="https://api.daily.dev/devcards/v2/vaxu1YcJUD9Ciru3l9X6S.png?type=default&r=qee" width="356" alt="Mayanna Oliveira's Dev Card"/></a>
+```
+Será exibido um cartão como abaixo:
+
+<a href="https://app.daily.dev/mayannaoliveira"><img src="https://api.daily.dev/devcards/v2/vaxu1YcJUD9Ciru3l9X6S.png?type=default&r=qee" width="356" alt="Mayanna Oliveira's Dev Card"/></a>
+
+## Try Hack Me
+[Try Hack Me](https://tryhackme.com/) é uma plataforma de aprendizado e certificações na área de segurança.
+
+<a href="https://tryhackme.com/p/mayannait">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me" />
+</a>
+
+Exemplo do código:
+
+```
+<a href="https://tryhackme.com/p/mayannait">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me" />
+</a>
+```
+
+## Contribuições do Github via hyo.dev
+
+No site [hyo.dev](https://stats.hyo.dev/api) é possível criar o gráfico de contribuições do Github, basta inserir o nome do usuário que o código para o readme é gerado.
+
+
+```![mayannaoliveira github-stats](https://stats.dooboo.io/api/github-stats?login=mayannaoliveira)```
+
+<a href="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
+</a>
+
+
+## Github Chart API
+Gráfico de contribuição do Github, acessado pelo link [ghchart.rshah.org](https://ghchart.rshah.org/).
+
+
+```
+<a href="https://github.com/mayannaoliveira">
+    <img src="https://ghchart.rshah.org/mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
+</a>
+```
+
+Assim aparece o gráfico abaixo:
+
+<a href="https://github.com/mayannaoliveira">
+    <img src="https://ghchart.rshah.org/mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
+</a>
 
 ---
 #### Fontes de pesquisa:
