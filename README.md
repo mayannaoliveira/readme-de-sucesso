@@ -1,4 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=mayannaoliveira)](https://git.io/streak-stats)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
 <a href="https://github.com/mayannaoliveira/readme-de-sucesso/stargazers"><img src="https://img.shields.io/github/stars/mayannaoliveira/readme-de-sucesso" alt="Stars Badge"/></a>
