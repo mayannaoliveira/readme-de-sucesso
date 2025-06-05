@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: mayannaoliveira/github-activity-readme@master
+      - uses: mayannaoliveira/readme-de-sucesso-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
