@@ -1,4 +1,4 @@
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayannaoliveira)](https://git.io/streak-stats)
 
 <p align="center">
 <a href="https://github.com/mayannaoliveira/readme-de-sucesso/stargazers"><img src="https://img.shields.io/github/stars/mayannaoliveira/readme-de-sucesso" alt="Stars Badge"/></a>
@@ -771,6 +771,13 @@ Status do Github, para saber mais acese [Github Contribution Stats](https://gith
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/mayannaoliveira/github-contribution-stats/)
 ```markdown
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/mayannaoliveira/github-contribution-stats/)
+```
+
+## GitHub Readme Streak Stats
+Permite personalizar o que será exibido como mostra em [GitHub Readme Streak Stats](https://streak-stats.demolab.com/demo/).
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayannaoliveira)](https://git.io/streak-stats)
+```markdown
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayannaoliveira)](https://git.io/streak-stats)
 ```
 
 ---
