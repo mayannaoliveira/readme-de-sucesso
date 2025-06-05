@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://bio.link/mayanna">
-    <img alt="Bio link" src="./img/cover.png"/></a>
-</p>
+
 
 <p align="center">
 <a href="https://github.com/mayannaoliveira/readme-de-sucesso/stargazers"><img src="https://img.shields.io/github/stars/mayannaoliveira/readme-de-sucesso" alt="Stars Badge"/></a>
@@ -767,6 +764,15 @@ Jogo Pacman:
 </picture>
 
 ```
+
+## Github Stats
+Status do Github, para saber mais acese [Github Contribution Stats](https://github.com/LordDashMe/github-contribution-stats?tab=readme-ov-file).
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/mayannaoliveira/github-contribution-stats/)
+```markdown
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/mayannaoliveira/github-contribution-stats/)
+```
+
 ---
 #### Fontes de pesquisa:
 
