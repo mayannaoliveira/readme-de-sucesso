@@ -739,6 +739,34 @@ Assim aparece o gráfico abaixo:
     <img src="https://ghchart.rshah.org/mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
 </a>
 
+## Gráfico de Contribuições 
+Esse gráfico é com a versão Jogo da Cobrinha e Pacman, foram gerados no site [Profile Readme Generator](https://profile-readme-generator.com/result) e [repositório](https://github.com/maurodesouza/profile-readme-generator).
+Jogo da cobrinha:
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/snake.svg" alt="Snake animation" />
+</div>
+
+```html
+<img src="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/snake.svg" alt="Snake animation" />
+```
+Jogo Pacman:
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mayannaoliveira/mayannaoliveira/output/pacman-contribution-graph.svg">
+</picture>
+
+```
 ---
 #### Fontes de pesquisa:
 
